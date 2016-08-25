@@ -1,4 +1,3 @@
-layout_spectrum: 0.3027071582619101
 typography_spectrum: 0.8477215790189803
 color:
   brandStrength: 0.42592306970618665
@@ -6,9 +5,11 @@ color:
   saturation: 0.010666080052033067
   rhythmicContrast: 0.4560609199106693
   brandColors:
-    - '#1F191D'
-    - '#4B617B'
-    - '#9671C7'
-    - '#ACB2B7'
-    - '#EFF5F8'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.3027071582619101
 name: 'Candice Corbin Photography '
+title: 'FINDING BEAUTY IN ALL PEOPLE, SEEKING HOPE IN ALL THINGS.'
