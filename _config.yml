@@ -12,5 +12,9 @@ color:
     - '#F4F482'
 layout_spectrum: 0.3027071582619101
 name: 'Candice Corbin Photography '
+navigation:
+  - name: Twitter
+    url: 'https://twitter.com/CandiceCorbin1'
+    type: external
 title: 'FINDING BEAUTY IN ALL PEOPLE, SEEKING HOPE IN ALL THINGS.'
 description: 'Portraits '
