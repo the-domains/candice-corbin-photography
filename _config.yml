@@ -16,5 +16,8 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/CandiceCorbin1'
     type: external
+  - name: facebook
+    url: 'https://www.facebook.com/candicecorbinphotography/'
+    type: external
 title: 'FINDING BEAUTY IN ALL PEOPLE, SEEKING HOPE IN ALL THINGS.'
 description: 'Portraits '
